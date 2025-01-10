@@ -1,0 +1,4 @@
+baseURL = 'http://dalton.newbend.xyz/'
+languageCode = 'en-us'
+title = 'dalton newbend'
+theme = 'bridget'
