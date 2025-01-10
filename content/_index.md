@@ -11,4 +11,11 @@ unifiedAlt: ' '
 _build:
   publishResources: true
 ---
-<img class="img-banner" src="banner.png" width= "1500" alt="<i>dalton.art.newbend banner</i>" />
+
+<img src="icons/drifting.png" alt="drifting into the later">
+<img src="icons/jars.png" alt="jars of things and stuff">
+<img src="icons/anthologies.png" alt="anthologies">
+<img src="icons/obelisks.png" alt="obelisks">
+<img src="icons/shrines.png" alt="shrines of the maker">
+<img src="icons/recipes.png" alt="recipess">
+<img src="icons/sphere.png" alt="home">
